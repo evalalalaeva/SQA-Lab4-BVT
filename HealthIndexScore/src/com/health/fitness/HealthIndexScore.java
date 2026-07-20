@@ -1,12 +1,10 @@
 package com.health.fitness;
 /**
  * CP353201 Software Quality Assurance (1/2569)
- * Lab#4 – Boundary value analysis and robustness testing
+ * Lab#4.1 – Normal Boundary value testing
  * Instructor: Asst.Prof. Chitsutha Soomlek
  * 
- * 1. Use the given template to design test cases before working on the matching JUnit test code.
- * 2. Record your test results in indicated format.
- * 3. Read the lab instructions for the details.
+
  */
 
 public class HealthIndexScore {
